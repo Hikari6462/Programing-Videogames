@@ -3,4 +3,4 @@ Programing videogames collection
 -->
 ## Asteroids Videogame
 
-[Asteroids Videogame ](https://github.com/Hikari6462/Analyzing-a-bank-s-credit-risk)
+[Asteroids Videogame ](https://github.com/Hikari6462/Asteroids_Videogame)
